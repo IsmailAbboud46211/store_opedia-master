@@ -1,0 +1,32 @@
+List<String> citiesArabic = [
+  "حماة",
+  "حمص",
+  "الرّقة",
+  "دير الزور",
+  "الحسكة",
+  "القنيطرة",
+  "السويداء",
+  "دمشق",
+  "حلب",
+  "درعا",
+  "طرطوس",
+  "اللاذقية",
+  "إدلب",
+];
+
+List<String> citisEnglish = [
+  "Hama",
+  "Homs",
+  "Raqqa",
+  "other",
+  "Dier Alzour",
+  "Al-hasaka",
+  "Al-Qunaitra",
+  "Swaidaa",
+  "Damascus",
+  "Aleppo",
+  "Daraa",
+  "Tartous",
+  "Lattakia",
+  "Idlib",
+];
